@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/11.dummy-shop/static/css/main.2cc6c252.css",
+    "main.js": "/11.dummy-shop/static/js/main.62e5b641.js",
+    "index.html": "/11.dummy-shop/index.html",
+    "main.2cc6c252.css.map": "/11.dummy-shop/static/css/main.2cc6c252.css.map",
+    "main.62e5b641.js.map": "/11.dummy-shop/static/js/main.62e5b641.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cc6c252.css",
+    "static/js/main.62e5b641.js"
+  ]
+}
