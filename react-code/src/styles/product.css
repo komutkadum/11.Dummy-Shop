@@ -1,0 +1,9 @@
+.product_card {
+    transition: all ease-in 0.3s;
+    cursor: pointer;
+}
+.product_card:hover {
+    box-shadow: -3px -1px 47px -13px #bdc3c7;
+-webkit-box-shadow: -3px -1px 47px -13px #bdc3c7;
+-moz-box-shadow: -3px -1px 47px -13px #bdc3c7;   
+}
