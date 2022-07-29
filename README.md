@@ -1,9 +1,5 @@
 # Dummy Shop
 
-## DEMO
-
-![](dummy-shop-demo.gif)
-
 ## IMPORTANT NOTES
 
 - I used localstorage for the cart and login criteria as it was most suitable for time being.
